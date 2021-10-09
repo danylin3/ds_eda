@@ -17,4 +17,6 @@ pip install xgboost
 
 pip install openpyxl
 
+pip install matplotlib
+
 pip install "notebook>=5.3""ipywidgets>=7.5"
